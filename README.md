@@ -3,5 +3,4 @@ lomako
 Aleksandr
 POIT
 OPI
-
-1 kyrs, 5 group, 1 podgroup
+1 kuyrs, 5 group, 1 podgroup
